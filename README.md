@@ -19,7 +19,7 @@ Visualize the geographic distribution of COVID-19 cases across different countri
 Monitor critical KPIs such as Case Fatality Rate (CFR), Recovery Rate, and Active Cases, helping to assess the severity and response to the pandemic.
 
 #### Dashboard:
-![Covid_19_Analytics_Power_BI_Dashboard_page-0001](https://github.com/lijesh010/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/02ba9988-5d27-45d8-b941-a295fa7522a6)
+![Covid_19_Analytics_Power_BI_Dashboard_page-0001]()
 
 ![Covid_19_Analytics_Power_BI_Dashboard_page-0002](https://github.com/lijesh010/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/af9cb5b3-bba1-4ceb-b330-73c72d272a47)
 
